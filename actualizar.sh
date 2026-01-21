@@ -14,4 +14,6 @@ pkg autoremove -y
 # 4. Limpiar caché de descargas antiguas
 pkg clean
 
+date
+
 echo "--- ¡Mantenimiento Completado! Tu sistema está al día. ---"
